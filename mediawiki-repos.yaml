@@ -1141,6 +1141,10 @@ SpamBlacklist:
   branch: _branch_
   path: extensions/SpamBlacklist
   repo_url: https://github.com/wikimedia/mediawiki-extensions-SpamBlacklist
+SpecialNewPage:
+  branch: master
+  path: extensions/SpecialNewPage
+  repo_url: https://github.com/wiki-gg-oss/mediawiki-extensions-SpecialNewPage
 SpeciallyCursed:
   branch: main
   path: extensions/SpeciallyCursed
